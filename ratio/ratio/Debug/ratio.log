@@ -1,0 +1,5 @@
+﻿main.obj : error LNK2019: unresolved external symbol _SDL_CreateWindow referenced in function "public: void __thiscall Window::init_window(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,unsigned int,unsigned int)" (?init_window@Window@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@II@Z)
+main.obj : error LNK2019: unresolved external symbol _SDL_DestroyWindow referenced in function "public: void __thiscall Window::destroy_window(void)" (?destroy_window@Window@@QAEXXZ)
+main.obj : error LNK2019: unresolved external symbol _SDL_PollEvent referenced in function "public: void __thiscall Window::update(void)" (?update@Window@@QAEXXZ)
+.\lib\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Dev\ratio\ratio\Debug\ratio.exe : fatal error LNK1120: 3 unresolved externals

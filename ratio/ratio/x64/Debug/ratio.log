@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Dev\ratio\ratio\ratio\src\main.cpp(137,25): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\ratio\ratio\ratio\src\main.cpp(276,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Dev\ratio\ratio\ratio\src\main.cpp(380,43): warning C4244: 'argument': conversion from 'u32' to 'float', possible loss of data
+C:\Dev\ratio\ratio\ratio\src\main.cpp(381,43): warning C4244: 'argument': conversion from 'u32' to 'float', possible loss of data
+C:\Dev\ratio\ratio\ratio\src\main.cpp(533,31): warning C4838: conversion from 'float' to 'u32' requires a narrowing conversion
+C:\Dev\ratio\ratio\ratio\src\main.cpp(533,31): warning C4244: 'initializing': conversion from 'float' to 'u32', possible loss of data
+C:\Dev\ratio\ratio\ratio\src\main.cpp(533,48): warning C4838: conversion from 'float' to 'u32' requires a narrowing conversion
+C:\Dev\ratio\ratio\ratio\src\main.cpp(533,48): warning C4244: 'initializing': conversion from 'float' to 'u32', possible loss of data
+C:\Dev\ratio\ratio\ratio\src\main.cpp(643,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Dev\ratio\ratio\ratio\src\main.cpp(361): warning C4715: 'sign': not all control paths return a value
+  ratio.vcxproj -> C:\Dev\ratio\ratio\x64\Debug\ratio.exe
